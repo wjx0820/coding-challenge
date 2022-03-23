@@ -1,0 +1,12 @@
+// Vitest Snapshot v1
+
+exports[`深度优先遍历dom > dfs > a 1`] = `
+"
+      hello world
+      
+      
+        a
+        b
+      
+    "
+`;

@@ -1,0 +1,13 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "no-console": "off",
+    "symbol-description": "off",
+    "prefer-regex-literals": "off",
+    "unicorn/error-message": "off",
+    "curly": "off",
+    "@typescript-eslint/no-unused-vars": [
+      "off"
+    ]
+  }
+}
